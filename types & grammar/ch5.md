@@ -649,7 +649,7 @@ true || (false && false);	// true -- 这才是胜利者!
 
 如果你熟知它，上面的例子一点儿都不会绊到你，因为你已经知道了`&&`要比`||`优先级高。但是我打赌有相当一部分读者不得不将它考虑一会。
 
-**注意：** 不幸的是，JS语言规范没有将它的操作符优先级罗列在一个方便，单独的位置。你不得不通读并理解所有的文法规则。所以我们将试着以一种更方便的格式排列出更常见和更有用的部分。要得到完整的操作符优先级列表，参见MDN网站的“操作符优先级”(* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)。
+**注意：** 不幸的是，JS语言规范没有将它的操作符优先级罗列在一个方便，单独的位置。你不得不通读并理解所有的文法规则。所以我们将试着以一种更方便的格式排列出更常见和更有用的部分。要得到完整的操作符优先级列表，参见MDN网站的“操作符优先级”(* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence )。
 
 ### 短接
 
